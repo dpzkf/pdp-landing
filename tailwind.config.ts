@@ -15,8 +15,16 @@ const config: Config = {
         "main-image": "url('../assets/svg/background.svg')",
       },
       colors: {
-        "main-bg": "0B1D26",
-        "main-accent": "FBD784",
+        "main-accent": "#FBD784",
+      },
+      backgroundColor: {
+        "main-bg": "#0B1D26",
+      },
+      height: {
+        "spacing-container": "60rem",
+      },
+      width: {
+        "image-poster": "35.375rem",
       },
     },
   },
